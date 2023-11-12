@@ -1,5 +1,20 @@
-ML and Physics Overlap :
+ML and (Computational) Physics Overlap :
 ========================
+
+Sampling
+
+Generic Experimentation : Inference of model/theory parameters from measured data. For those with prior experience in experimentation or more advanced physics lab courses.
+
+Possible New Content:
+=======================
+
+...
+
+ML / Software Dev Tools : 
+-----------------------
+Docker
+PyTorch / TensorFlow
+...
 
 Papers (Unreviewed): 
 =======================
