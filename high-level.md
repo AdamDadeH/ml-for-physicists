@@ -1,7 +1,9 @@
 ML and (Computational) Physics Overlap :
 ========================
 
-Sampling
+Sampling : 
+
+ * Hamiltonian Monte Carlo comes full circle to use the power of symplectic geometry to improve sampling.
 
 Generic Experimentation : Inference of model/theory parameters from measured data. For those with prior experience in experimentation or more advanced physics lab courses.
 
@@ -28,6 +30,7 @@ Title: Machine learning and the physical sciences
 Authors: Giuseppe Carleo, Ignacio Cirac, Kyle Cranmer, Laurent Daudet, Maria Schuld, Naftali Tishby, Leslie Vogt-Maranto, Lenka Zdeborová
 Links : 
  - https://ar5iv.labs.arxiv.org/html/1903.10563
+ - https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.91.045002
 
 A fast and accurate physics-informed neural network reduced order model with shallow masked autoencoder
 Authors : Youngkyu Kim, Youngsoo Choi, David Widemann, Tarek Zohdi
@@ -48,6 +51,15 @@ https://arxiv.org/abs/2311.03776
 
 Interpreting and generalizing deep learning in physics-based problems with functional linear models
 https://arxiv.org/abs/2307.04569
+
+The application of deep learning in high energy physics
+https://wuli.iphy.ac.cn/en/article/doi/10.7693/wl20170904?viewType=HTML
+
+Deep Learning in the Natural Sciences: Applications to Physics
+https://link.springer.com/chapter/10.1007/978-3-319-99492-5_12
+
+Deep Learning the Physics of Transport Phenomena
+https://arxiv.org/abs/1709.02432
  
 Books (Unreviwed)
 =======
