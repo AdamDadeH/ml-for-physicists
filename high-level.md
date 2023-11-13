@@ -72,6 +72,12 @@ https://arxiv.org/abs/1709.02432
 Deep Learning for Physics Simulation
 https://dl.acm.org/doi/abs/10.1145/3587423.3595518
 
+Machine Learning for Fluid Mechanics
+https://www.annualreviews.org/doi/abs/10.1146/annurev-fluid-010719-060214
+
+Machine Learning for Molecular Simulation
+https://www.annualreviews.org/doi/abs/10.1146/annurev-physchem-042018-052331
+
 Blog
 ====
 
@@ -80,6 +86,12 @@ https://medium.com/mlearning-ai/applications-of-machine-and-deep-learnings-in-ph
 Books (Unreviwed)
 =======
 Deep Learning in Science : Pierre Baldi
+
+Deep Learning and Physics
+https://link.springer.com/book/10.1007/978-981-33-6108-9
+
+Deep Learning for Physics Research
+https://www.worldscientific.com/worldscibooks/10.1142/12294#t=aboutBook
 
 Seminars / Video
 =====
