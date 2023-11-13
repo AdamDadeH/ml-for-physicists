@@ -20,6 +20,9 @@ PyTorch / TensorFlow
 
 Papers (Unreviewed): 
 =======================
+Many references in : Pervasive machine learning in physics
+https://www.nature.com/collections/cihhcgggfb
+
 Physics-informed deep-learning applications to experimental fluid mechanics
 https://arxiv.org/abs/2203.15402
 
