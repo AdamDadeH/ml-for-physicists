@@ -20,6 +20,11 @@ PyTorch / TensorFlow
 
 Papers (Unreviewed): 
 =======================
+Physics-informed deep-learning applications to experimental fluid mechanics
+https://arxiv.org/abs/2203.15402
+
+Machine learning in the search for new fundamental physics
+https://www.nature.com/articles/s42254-022-00455-1
 
 Title: Machine learning in physics: a short guide
 Authors: Francisco A. Rodrigues
@@ -60,8 +65,26 @@ https://link.springer.com/chapter/10.1007/978-3-319-99492-5_12
 
 Deep Learning the Physics of Transport Phenomena
 https://arxiv.org/abs/1709.02432
+
+Deep Learning for Physics Simulation
+https://dl.acm.org/doi/abs/10.1145/3587423.3595518
+
+Blog
+====
+
+https://medium.com/mlearning-ai/applications-of-machine-and-deep-learnings-in-physics-832c553a1ec8
  
 Books (Unreviwed)
 =======
 Deep Learning in Science : Pierre Baldi
 
+Seminars / Video
+=====
+
+https://www.ipam.ucla.edu/programs/long-programs/machine-learning-for-physics-and-the-physics-of-learning/#:~:text=Activities-,Overview,either%20from%20experiments%20or%20simulations.
+
+Machine Learning for Physicists (Lecture 1)
+https://www.youtube.com/watch?v=qMp3s7D_8Xw
+
+Nature Reviews Physics: Machine learning in condensed matter and materials physics
+https://www.youtube.com/watch?v=E5xKqxChv4g
