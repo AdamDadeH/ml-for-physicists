@@ -3,6 +3,8 @@ ML and (Computational) Physics Overlap :
 
 Sampling : 
 
+ * Monte Carlo Integration
+
  * Hamiltonian Monte Carlo comes full circle to use the power of symplectic geometry to improve sampling.
 
 Generic Experimentation : Inference of model/theory parameters from measured data. For those with prior experience in experimentation or more advanced physics lab courses.
@@ -10,7 +12,14 @@ Generic Experimentation : Inference of model/theory parameters from measured dat
 Possible New Content:
 =======================
 
-...
+Mapping problems to ML domain
+ - Supervised Learning
+ - Unsupervised Learning
+ - Reinforcement Learning
+
+Stochastic Gradient Descent
+
+Model Fine Tuning / Foundation Models
 
 ML / Software Dev Tools : 
 -----------------------
